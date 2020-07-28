@@ -15,6 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine(x);
             //fasolakia
             int a = 5;
+
+            //papoutsia
             int b = 4;
             Console.WriteLine(a + b);
         }
