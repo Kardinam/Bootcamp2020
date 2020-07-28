@@ -12,6 +12,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             string x = Console.ReadLine();
+            Console.WriteLine(x);
+            //fasolakia
+            int a = 5;
+            int b = 4;
+            Console.WriteLine(a + b);
         }
     }
 }
